@@ -20,3 +20,7 @@ body {
 	letter-spacing:3px;
 	font-size:75px;
 }
+
+#button {
+	text-align:center;
+}
